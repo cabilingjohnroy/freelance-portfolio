@@ -2,7 +2,7 @@
 
 Portfolio site for my freelance website business for small businesses in Metro Manila.
 
-**Live:** _add Netlify URL_
+**Live:** https://johnroy-cabiling.netlify.app
 
 ## What's on the page
 - Sample work: [Tala Coffee](https://cafe-website-q2ij.netlify.app) and [Kanto Cuts](https://barbershop-website-gkij.netlify.app)
